@@ -13,7 +13,7 @@ A flight radar application that allows users to track airplanes in real-time on 
 
 ![](./public/images/radar1.png)
 
-<h2>Map Page Detay</h2>
+<h2>Map Page Detail</h2>
 
 ![](./public/images/detay.png)
 
